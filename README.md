@@ -1,7 +1,7 @@
 **Web Developer Jr** 
 
 - 💙 Nowadays I work as Full Stack Web Developer Jr at Post ED. 
-- 💚 ...and at BetaBit
+- 💚 ...and at BetaBit.
 - 📘 3rd period of Information Systems at Positivo University. 
 - 💻 I'm a Computer Technician. 
 
