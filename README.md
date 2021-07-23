@@ -2,7 +2,7 @@
 
 - 💙 Full Stack Web Developer Jr at Post ED. 
 - 💚 Full Stack Web Developer Jr at BetaBit. 
-- 📘 3rd period of Information Systems at Positivo University. 
+- 📘 4rd period of Information Systems at Positivo University. 
 - 💻 I'm a Computer Technician. 
 
 ![Vinícius' github stats](https://github-readme-stats.vercel.app/api/?username=viniciusgugelmin&show_icons=true&title_color=fff&icon_color=0be3dc&text_color=9f9f9f&bg_color=151515) 
