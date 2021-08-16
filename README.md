@@ -4,17 +4,14 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 
 ## Github Stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
-
-![Snake animation](https://github.com/viniciusgugelmin/viniciusgugelmin/blob/output/github-contribution-grid-snake.svg)
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
+</div>
 
 <!--
-## My contribution streak 🔥
-
 <a href="https://github.com/viniciusgugelmin/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusgugelmin&theme=midnight-purple#version3" alt="Vinícius Gugelmin's streak stats"/>
+		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusgugelmin&theme=midnight-purple#version3" alt="Vinícius Gugelmin's streak stats"/
 </a>
 -->
 
