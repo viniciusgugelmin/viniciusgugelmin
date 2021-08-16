@@ -8,6 +8,8 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
 
+![Snake animation](https://github.com/viniciusgugelmin/viniciusgugelmin/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 ## My contribution streak 🔥
 
