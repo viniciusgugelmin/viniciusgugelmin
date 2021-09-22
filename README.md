@@ -43,7 +43,7 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 ## Working now 💼
 
 - Full Stack Web Developer Jr at Post ED.
-- Full Stack Web Developer Jr at BetaBit.
+- QA Developer at BetaBit.
 
 ## Studying now 📘
 
