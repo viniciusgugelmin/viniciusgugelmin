@@ -46,5 +46,5 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 
 ## Studying now 📘
 
-- 4rd period of Information Systems at Positivo University. 
+- 5th period of Information Systems at Positivo University. 
 - I'm a Computer Technician.
