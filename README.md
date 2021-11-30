@@ -25,7 +25,7 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="PHP">
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' alt="Laravel">
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt="MySql">
-	<!--<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg' alt="SQL">-->
+	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' alt="Angular.js">
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt="Git">
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt="Github">
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' alt="Bitbucket">
@@ -42,8 +42,7 @@ You can call me Vini, I'm brazilian, a code lover that works a lot as a programm
 
 ## Working now 💼
 
-- Full Stack Web Developer Jr at Post ED.
-- QA Developer at BetaBit.
+- Full Stack Development Tutor at Driven Education.
 
 ## Studying now 📘
 
