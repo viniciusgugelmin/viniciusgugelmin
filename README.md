@@ -1,6 +1,6 @@
 ## Sup, everyone 👋
 
-You can call me Vini, I'm brazilian, a code lover that works a lot as a programmer to improve every single day. I always search for new challenges in my career, if you have a good one for me, let me try it! 🖥️
+You can call me Vini, I'm brazilian, a coder, a gamer and so one! 🖥️
 
 ## Github Stats 📈
 
