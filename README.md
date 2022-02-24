@@ -1,6 +1,6 @@
 ## Sup, everyone 👋
 
-You can call me Vini, I'm brazilian, a coder, a gamer and so one! 🖥️
+You can call me Vini, I'm brazilian, a developer, a gamer and so one! 🖥️
 
 ## Github Stats 📈
 
