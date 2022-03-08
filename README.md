@@ -1,4 +1,4 @@
-## Sup, everyone 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Sup,+everyone;)](https://git.io/typing-svg)
 
 <img src="http://portal.ufvjm.edu.br/a-universidade/cursos/grade_curricular_ckan/loading.gif/@@images/image.gif" alt="Loading" min-width="150px" max-width="150px" width="150px" align="right">
 
@@ -8,14 +8,14 @@ You can call me Vini, I'm brazilian, a develope and a gamer! 🖥️
 - Computer Technician 📘
 - 5th period of Information Systems at Positivo University 📘 
 
-## Social Networks
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+Social+networks)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/viniciusgugelmin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vinigugelmin@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
 
-## Technologies/Languages 📜
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Technologies+and+languages)](https://git.io/typing-svg)
 
 <div>
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt="HTML">
@@ -41,7 +41,7 @@ You can call me Vini, I'm brazilian, a develope and a gamer! 🖥️
 	<img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg' alt="Yarn">
 </div>
 
-## Github Stats 📈
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%93%88+Github+stats)](https://git.io/typing-svg)
 
 <div align="left">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
