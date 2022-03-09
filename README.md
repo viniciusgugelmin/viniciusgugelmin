@@ -47,8 +47,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%93%88+Github+stats)](https://git.io/typing-svg)
 
 <div align="center">
-	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' most used languages" />
-	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' Stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' most used languages" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' Stats" />
 </div>
 
 ![Vinícius ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)
