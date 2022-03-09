@@ -2,17 +2,20 @@
 
 <img src="http://portal.ufvjm.edu.br/a-universidade/cursos/grade_curricular_ckan/loading.gif/@@images/image.gif" alt="Loading" min-width="150px" max-width="150px" width="150px" align="right">
 
-You can call me Vini, I'm brazilian, a develope and a gamer! 🖥️
-
-- Full Stack Development Tutor at Driven Education 💼
-- Computer Technician 📘
-- 5th period of Information Systems at Positivo University 📘 
+- 🙋‍♂️ I'm Vinícius, but you can call me Vini
+- 🌎 Brazilian
+- 💼 Full Stack Development Tutor at Driven Education
+- 🎓 Computer Technician
+- 📘 5th period of Information Systems at Positivo University (5/8)
+- ⚡ I enjoy playing videogames and listen to music
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+Social+networks)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/viniciusgugelmin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:vinigugelmin@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"> 
+<a href="https://www.linkedin.com/in/viniciusgugelmin/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+<a href="mailto:vinigugelmin@gmail.com" alt="Gmail" target="_blank">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
 </a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%A7%A0+Technologies+and+languages)](https://git.io/typing-svg)
@@ -43,12 +46,12 @@ You can call me Vini, I'm brazilian, a develope and a gamer! 🖥️
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%93%88+Github+stats)](https://git.io/typing-svg)
 
-<div align="left">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
+<div align="center">
+	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' most used languages" />
+	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' Stats" />
 </div>
 
-![Vinícius ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&bg_color=000000&line=9645F4&point=9645F4)
+![Vinícius ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)
 
 
 <!--<a href="https://github.com/viniciusgugelmin/github-readme-streak-stats">
