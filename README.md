@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%8C%8E+Sup,+everyone;)](https://git.io/typing-svg)
 
-<img src="http://portal.ufvjm.edu.br/a-universidade/cursos/grade_curricular_ckan/loading.gif/@@images/image.gif" alt="Loading" min-width="150px" max-width="150px" width="150px" align="right">
+<img src="http://portal.ufvjm.edu.br/a-universidade/cursos/grade_curricular_ckan/loading.gif/@@images/image.gif" alt="Loading" min-width="150px" max-width="150px" width="150px" min-height="150px" max-height="150px" height="150px" align="right">
 
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
