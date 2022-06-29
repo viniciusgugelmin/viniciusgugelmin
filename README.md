@@ -6,7 +6,7 @@
 - 🌎 Brazilian
 - 💼 Full Stack Development Tutor at Driven Education
 - 🎓 Computer Technician
-- 📘 5th period of Information Systems at Positivo University (5/8)
+- 📘 5th period of Information Systems at Positivo University (6/8)
 - ⚡ I enjoy playing videogames and listen to music
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Liberation+Mono&color=%9090ff&duration=4000&vCenter=true&height=25&lines=%F0%9F%92%AC+Social+networks)](https://git.io/typing-svg)
