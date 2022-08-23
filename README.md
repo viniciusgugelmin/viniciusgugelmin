@@ -1,7 +1,5 @@
 ## Sup, everyone!
 
-<img src="http://portal.ufvjm.edu.br/a-universidade/cursos/grade_curricular_ckan/loading.gif/@@images/image.gif" alt="Loading" min-width="150px" max-width="150px" width="150px" min-height="150px" max-height="150px" height="150px" align="right">
-
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
 - 💼 Full Stack Development Tutor at Driven Education
