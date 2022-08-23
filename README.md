@@ -62,7 +62,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -89,10 +88,4 @@
 </div>
 
 ![Vinícius ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)
-
-
-<!--<a href="https://github.com/viniciusgugelmin/github-readme-streak-stats">
-		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusgugelmin&theme=midnight-purple#version3" alt="Vinícius Gugelmin's streak stats"/
-</a>-->
-
 
