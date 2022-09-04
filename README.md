@@ -3,8 +3,8 @@
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
 - 💼 Full Stack Development Tutor at Driven Education
-- 🎓 Computer Technician
-- 📘 6th period of Information Systems at Positivo University (6/8)
+- 🎓 Computer Technician - TECPUC
+- 📘 Information Systems - Positivo University (6/8)
 
 ## Tech Stack
 
