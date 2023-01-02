@@ -4,7 +4,7 @@
 - 🌎 Brazilian
 - 💼 Full Stack Development Tutor at Driven Education
 - 🎓 Computer Technician - TECPUC
-- 📘 Information Systems - Positivo University (6/8)
+- 📘 Information Systems - Positivo University (7/8)
 
 ## Tech Stack
 
