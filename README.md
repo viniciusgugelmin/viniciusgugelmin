@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
-- 💼 Full Stack Development Tutor at Driven Education
+- 💼 Software Engineer (open to work)
 - 🎓 Computer Technician - TECPUC
 - 📘 Information Systems - Positivo University (7/8)
 
