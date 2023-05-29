@@ -89,5 +89,5 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' Stats" />
 </div>
 
-[![Vinícius ' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vinícius ' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
