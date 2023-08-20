@@ -4,7 +4,7 @@
 - 🌎 Brazilian
 - 💼 Front-end developer - Oystr (Robôs Inteligentes)
 - 🎓 Computer Technician - TECPUC
-- 📘 Information Systems - Positivo University (7/8)
+- 📘 Information Systems - Positivo University
 
 ## Tech Stack
 
