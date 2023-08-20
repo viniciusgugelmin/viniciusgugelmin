@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
-- 💼 Software Engineer (open to work)
+- 💼 Front-end developer - Oystr (Robôs Inteligentes)
 - 🎓 Computer Technician - TECPUC
 - 📘 Information Systems - Positivo University (7/8)
 
