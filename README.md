@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I'm Vinícius, but you can call me Vini
 - 🌎 Brazilian
-- 💼 Full-stack developer - Oystr (Robôs Inteligentes)
+- 💼 Commerce developer - NTT Data
 - 🎓 Computer Technician - TECPUC
 - 📘 Information Systems - Positivo University
 
