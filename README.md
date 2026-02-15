@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20native-000?&style=for-the-badge&logo=React)
 
 ### Back-end:
 
@@ -28,6 +29,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Sap Commerce Cloud](https://img.shields.io/badge/SAP%20Commerce%20Cloud-0769AD?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Database:
 
@@ -53,6 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![CCV2](https://img.shields.io/badge/CCV2-0769AD?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Tools:
 
@@ -73,10 +78,10 @@
 
 ## Github stats
 
-<div align="center">
+<!--<div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgugelmin&layout=compact&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' most used languages" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgugelmin&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d1117&hide_border=true" alt="Vinícius' Stats" />
-</div>
+</div>-->
 
 [![Vinícius ' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusgugelmin&custom_title=Vinícius%20Contribution%20Graph&theme=dracula&line=9645F4&point=ffffff&bg_color=0d1117&hide_border=true&color=9645F4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
