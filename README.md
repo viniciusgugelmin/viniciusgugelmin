@@ -4,7 +4,8 @@
 - 🌎 Brazilian
 - 💼 Commerce developer - NTT Data
 - 🎓 Computer Technician - TECPUC
-- 📘 Information Systems - Positivo University
+- 🎓 Bachelor in Information Systems - Positivo University
+- 📘 Postgraduate Degree (Specialization in Java) - UTFPR
 
 ## Tech Stack
 
